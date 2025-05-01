@@ -1,12 +1,8 @@
 # Lab-AP1-Operators-1
 
-# Instruction
-1. Fork this repo
-2. Clone your forked repo
-3. Create file task1.cpp, task2.cpp, task3.cpp
-4. After you finished your task, push your answer to your own forked repo
+# Description
 
-![image](https://user-images.githubusercontent.com/98159404/224738575-dd00278f-e3a9-4529-b63c-68dabfc6bdc0.png)
+This repository aims to answer 3 tasks given by the lab assistant of Programming Algorithm class (listed below).
 
  # TASK 1
  
